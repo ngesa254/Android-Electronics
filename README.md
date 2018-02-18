@@ -15,6 +15,6 @@ Open Source License
 Sharing
 -------
 Under the GNU GPL, you are free to do whatever you want with this provided code. However, I'd really appreciate it if you could do the following things when re-using any code that I have released for this book:
-* Provide attribution at the top of your code, like this "This code adapted from code by Ngesa Marvin (https://medium.com/iot-5g-extreme-ideas-lab/welcome-to-iot-extreme-ideas-lab-396967a416a4), for the "Android Electronics" book. Its use and modifcation are permitted under the terms of the GNU GPL."
+* Provide attribution at the top of your code, like this "This code adapted from code by [Ngesa Marvin](https://medium.com/iot-5g-extreme-ideas-lab/welcome-to-iot-extreme-ideas-lab-396967a416a4), for the "Android Electronics" book. Its use and modifcation are permitted under the terms of the GNU GPL."
 * If you make something awesome with the help of this book and/or my code examples, please let me know - I'd love to hear about it! You can hit me up on [twitter](https://twitter.com/Ngesa254) or via [my website](https://medium.com/iot-5g-extreme-ideas-lab).
 * Share!  If you make something awesome, please consider releasing it as an open source project so other people can learn from what you've done.
