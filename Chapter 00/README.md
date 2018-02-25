@@ -5,12 +5,12 @@
 
 | Directory | Contents | Date |
 ----|----|---- 
-| [Tut I]() | Understanding Schematics and Datasheets | 2016/11/27 |
-| [Tut II]() | Electrical Engineering for Android Developers | 2017/9/1 |
-| [Tut III]() | Peripheral I/O APIs and Integrated Circuit Peripherals | 2017/5/28 |
-| [Tut IV ]() | Hardware Debouncing| 2017/12/2 |
-| [Tut V]() | Soldering for Novices  | 2017/9/10 |
-| [ Tut VI]() | Raspberry pi Bare bones | 2018/1/27 |
- [Tut VII]() | NXP Pico Bare bones | 2018/1/27 |
-| [Tut VIII]() | Intel Architecture/ Android Electronics on Edison| 2018/1/27  |
+| [Tut I]() | Introduction to the Android Things | 2016/11/27 |
+| [Tut II]() | Getting Started with the SoM | 2017/9/1 |
+| [Tut III]() | Flashing the Android Things Firmware to a Device via Command Line | 2017/5/28 |
+| [Tut IV ]() | Getting Started with AndroidThings Console| 2017/12/2 |
+| [Tut V]() | Getting Started with ADB and connecting Microcontrollers (Intel Edison)to Wifi  | 2017/9/10 |
+| [ Tut VI]() | Android Things Quick Start — Hello Things, Getting Up and Blinking with Android Things | 2018/1/27 |
+ [Tut VII]() | Getting Started with Sensors and Starter Kits: The Rainbow Hat Overview | 2018/1/27 |
+| [Tut VIII]() | Grove Indoor Environment Kit for Intel Edison| 2018/1/27  |
 
