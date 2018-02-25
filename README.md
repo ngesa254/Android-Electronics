@@ -6,14 +6,14 @@ These are the most up-to-date versions of the code examples provided within the 
 
 | Directory | Contents |
 ----|----
-| [Raspberry pi]() | IoT on Arduino Tutorial. Hand-making Christmas Illumination - Arduino IoT |
+| [Chapter 00]() | IoT on Arduino Tutorial. Hand-making Christmas Illumination - Arduino IoT |
 | [Python quick start](https://github.com/yoshihiroo/programming-workshop/tree/master/Python-basic) | Python Tutorial on cloud9 - cloud9|
-| [deep-learning](https://github.com/yoshihiroo/programming-workshop/tree/master/deep-learning) | Deep Learning Tutorial on Python/cloud9 - Python Deep Learning)|
-| [deep_learning_jupyter](https://github.com/yoshihiroo/programming-workshop/tree/master/deep_learning_jupyter) | Deep Learning Tutorial on Python/Jupyter - JupyterPython Deep Learning| 2017/12/2 |
-| [infrastructure]() | Server/Virtualization/Cloud Tutorial -  |
-| [ Movidus]() | Deep Learning Implementation on Raspberry Pi - Raspberry Pi Deep Learning |
- [pi_ai_handson]() | Deep Learning Implementation on Raspberry Pi - Raspberry Pi Deep Learning |
-| [Bonnet]() | AI Implementation on Google AIY Vision Kit - Google AIY Vision Kit|
+| [Chapter 01](https://github.com/yoshihiroo/programming-workshop/tree/master/deep-learning) | Deep Learning Tutorial on Python/cloud9 - Python Deep Learning)|
+| [Chapter 02](https://github.com/yoshihiroo/programming-workshop/tree/master/deep_learning_jupyter) | Deep Learning Tutorial on Python/Jupyter - JupyterPython Deep Learning| 2017/12/2 |
+| [Chapter 03]() | Server/Virtualization/Cloud Tutorial -  |
+| [ Chapter 04]() | Deep Learning Implementation on Raspberry Pi - Raspberry Pi Deep Learning |
+ [Chapter 05]() | Deep Learning Implementation on Raspberry Pi - Raspberry Pi Deep Learning |
+| [Chapter 06]() | AI Implementation on Google AIY Vision Kit - Google AIY Vision Kit|
  
 
 Open Source License
