@@ -6,14 +6,14 @@ These are the most up-to-date versions of the code examples provided within the 
 
 | Directory | Contents |
 ----|----
-| [Chapter 00]() | IoT on Arduino Tutorial. Hand-making Christmas Illumination - Arduino IoT |
-| [Chapter 01](https://github.com/yoshihiroo/programming-workshop/tree/master/Python-basic) | Python Tutorial on cloud9 - cloud9|
-| [Chapter 02](https://github.com/yoshihiroo/programming-workshop/tree/master/deep-learning) | Deep Learning Tutorial on Python/cloud9 - Python Deep Learning)|
-| [Chapter 03](https://github.com/yoshihiroo/programming-workshop/tree/master/deep_learning_jupyter) | Deep Learning Tutorial on Python/Jupyter - JupyterPython Deep Learning| 2017/12/2 |
-| [Chapter 04]() | Server/Virtualization/Cloud Tutorial -  |
-| [ Chapter 05]() | Deep Learning Implementation on Raspberry Pi - Raspberry Pi Deep Learning |
- [Chapter 06]() | Deep Learning Implementation on Raspberry Pi - Raspberry Pi Deep Learning |
-| [Chapter 07]() | AI Implementation on Google AIY Vision Kit - Google AIY Vision Kit|
+| [Chapter 00]() | Getting Started with Android Things |
+| [Chapter 01]() | Electronics 101|
+| [Chapter 02]() | Electronics 102|
+| [Chapter 03]() | Getting Started with Peripheral I/O|
+| [Chapter 04]() | Driving Motors & Transistors |
+| [ Chapter 05]() | Serial Communication and Processing |
+ [Chapter 06]() | I2C Communication and Processing |
+| [Chapter 07]() |Liquid Crystal Displays, LCDs|
  
 
 Open Source License
