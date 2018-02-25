@@ -5,7 +5,7 @@ These are the code files that accompany the *Android Electronics* book by [Ngesa
 These are the most up-to-date versions of the code examples provided within the book. 
 
 | Directory | Contents |
-----|----|---- 
+----|----
 | [Raspberry pi]() | IoT on Arduino Tutorial. Hand-making Christmas Illumination - Arduino IoT |
 | [Python quick start](https://github.com/yoshihiroo/programming-workshop/tree/master/Python-basic) | Python Tutorial on cloud9 - cloud9|
 | [deep-learning](https://github.com/yoshihiroo/programming-workshop/tree/master/deep-learning) | Deep Learning Tutorial on Python/cloud9 - Python Deep Learning)|
