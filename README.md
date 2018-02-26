@@ -16,7 +16,13 @@ These are the most up-to-date versions of the code examples provided within the 
 | [Chapter 07]() |Liquid Crystal Displays, LCDs|
 | [Chapter 08]() |Hardware and Timer Interrupts|
 | [Chapter 09]() |Wireless Communication|
- 
+| [Chapter 10]() |Getting Started with User Space Drivers|
+| [Chapter 11]() | External Storage, SD Card and Data Logging|
+| [Chapter 12]() | SPI Interfacing |
+| [Chapter 13]() | Getting Started with Cloud IoT Core |
+| [Chapter 14]() | Ethernet and Internet Communication |
+| [Chapter 15]() | Firebase and IoT — Making sense of IoT data with Firebase |
+| [Chapter 16]() | TensorFlow and IoT — Making sense of IoT data with TensorFlow |
 
 Open Source License
 -------------------
