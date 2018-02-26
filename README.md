@@ -14,6 +14,8 @@ These are the most up-to-date versions of the code examples provided within the 
 | [ Chapter 05]() | Serial Communication and Processing |
  [Chapter 06]() | I2C Communication and Processing |
 | [Chapter 07]() |Liquid Crystal Displays, LCDs|
+| [Chapter 08]() |Hardware and Timer Interrupts|
+| [Chapter 09]() |Wireless Communication|
  
 
 Open Source License
