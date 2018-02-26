@@ -23,6 +23,8 @@ These are the most up-to-date versions of the code examples provided within the 
 | [Chapter 14]() | Ethernet and Internet Communication |
 | [Chapter 15]() | Firebase and IoT — Making sense of IoT data with Firebase |
 | [Chapter 16]() | TensorFlow and IoT — Making sense of IoT data with TensorFlow |
+| [Chapter 17]() | Displays — Intro and Assembly|
+| [Chapter 18]() | Design Thinking, Prototyping and Idealization |
 
 Open Source License
 -------------------
